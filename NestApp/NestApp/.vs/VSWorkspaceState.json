@@ -1,0 +1,18 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Areas",
+    "\\Areas\\AdminPanel",
+    "\\Areas\\AdminPanel\\Controllers",
+    "\\Controllers",
+    "\\DAL",
+    "\\Utilities",
+    "\\ViewModel",
+    "\\Views",
+    "\\Views\\Account",
+    "\\Views\\Home",
+    "\\Views\\Shared"
+  ],
+  "SelectedNode": "\\Views\\Shared\\ProductPatrtial.cshtml",
+  "PreviewInSolutionExplorer": false
+}

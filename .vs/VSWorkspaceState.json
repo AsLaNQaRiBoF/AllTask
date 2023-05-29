@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\NestApp",
+    "\\NestApp\\NestApp",
+    "\\NestApp\\NestApp\\Controllers",
+    "\\NestApp\\NestApp\\DAL",
+    "\\NestApp\\NestApp\\DAL\\Migrations",
+    "\\NestApp\\NestApp\\Models",
+    "\\NestApp\\NestApp\\Properties",
+    "\\NestApp\\NestApp\\Views",
+    "\\NestApp\\NestApp\\Views\\Home"
+  ],
+  "SelectedNode": "\\NestApp\\NestApp\\Controllers\\HomeController.cs",
+  "PreviewInSolutionExplorer": false
+}
